@@ -1,0 +1,6 @@
+{
+  "name": "Vexmo 3D Culinary & Live Delivery",
+  "description": "Interactive 3D pop-up menu food delivery platform with real-time Google Maps driver tracking, transit temperature telemetry, AI food quality scanning, allergen & calorie tracking, and AI demand analytics.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
